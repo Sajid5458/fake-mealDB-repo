@@ -1,0 +1,11 @@
+.main-container{
+    background-color: #2d2013;
+
+}
+.input-container{
+    border-top: 2px solid white;
+    border-bottom: 2px solid white;
+}
+.input-group-container{
+    width: 30%;
+}

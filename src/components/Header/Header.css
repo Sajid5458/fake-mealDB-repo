@@ -1,0 +1,24 @@
+.title-img img{
+    cursor: pointer;
+}
+.info-btn{
+    transition: 400ms;
+}
+.info-btn:hover{
+    background-color: #c52d2f;
+    border-radius: 5px;
+}
+.info-container{
+    background-color: #2d2013;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.petreon-container a{
+    text-decoration: none;
+    color:  #d57d1f;
+    transition: 400ms;
+}
+.petreon-container a:hover{
+    color: gold;
+}

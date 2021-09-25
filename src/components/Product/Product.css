@@ -1,0 +1,16 @@
+.product-container{
+    cursor: pointer;
+    transition: 700ms;
+    border-radius: 15px;
+}
+.product-container:hover{
+    transform: translateY(-15px);
+    box-shadow: 2px 4px 4px 4px #857f7a;
+}
+.product-container:focus{
+    transform: translateY(-15px);
+    box-shadow: 2px 4px 4px 4px #857f7a;
+}
+.product span{
+    color:  #d57d1f;
+}
